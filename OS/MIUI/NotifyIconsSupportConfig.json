@@ -336,4 +336,12 @@
     "isEnabled": true,
     "isEnabledAll": true
   }
+  {
+  "appName": "理想汽车", // APP 名称
+  "packageName": "com.chehejia.oc.m01", // APP 包名
+  "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAOmSURBVGiB7ZZNaCRFFMerMhnawZHRZGGJkFwaxEzQBBGcy+7BgApGElZy8KAXJXiZhUCYo7QHZSEhLptTMygSUENHPOSkCX5AIJscVmVANJO0k0nIKHR3Jume/phMVT8vZtl0kunaih7E+kEdurrq/+pf71V3ISQQCAQCgUAgEAj+Y2DTNOce7ACAJsb4uO0kjI/n5uZmFUWx241TVTU5Ojo6jRBK8SzOdd1fZVm+zTQYAChEIITENsuyFBZ9y7I+ZtE7r1FK3ZWVlX4mI57nzUeNUEpjg4RhWNc0rS9Of3V1tY8Q4vKa8X3/cyYjpVLpaQBo8mSlXq9/xBLDMIz3L5GVsFQqXWcy43nenaiRMAxZgpC1tbVn4vSLxeJVSqnJa6bRaCwzGSkWi1cBwOIpsYODA6bUG4bxLqU05DWj6/oNJjOO43zAkxVCCNnd3b0Wp18oFB4LgmCb14jnefdUVU3GGpmcnEwRQnSerDiO84OiKJ1xMSqVyhu8RgghsL+//w5TVkzTvBk1wnjww83Nzbfi9DVNS3ied5fXSLPZ3FEU5fHztHH0OQiCXyRJOvXtBgAUhmHbRWKMnXK5/HJ/f//dduOq1eqwJElvx5m+iJ2dnTu5XG79TPxoR61Wu9HT0/Nl9B2lNDYIxtizbXt6YWHhU13XjXQ63cpms3RxcREhhNDAwAAoinKyI2diPwRwJna0Q9O0xNjY2DfJZHL41EyGrNwXxbiFMf6z1Wo5hJDWSWBKqTM7OzuSTqefmJiYWOTzgJBhGF/JsnwrdqCu688DgM9z8ONarVa7iRBCtm1/wqtBKXU3NjaeOrV5F5kJgqAoSdKZrwRLicVgzs/PZ7u7uzMjIyM/AUCaR8S27c+6urreROeU2SmmpqYebTabv/0bWbEsaxohhI6Ojm5fQue4XC4PMbl2Xfc5AAh47mExpXG0vLz85MzMzBVCyB+8Oo7jfDc+Pp5gMrO1tfUaRK76jH/8tu3w8PALhBC2LOu9S2xIq1qtDseaOGFvb++V6F3ssiVGKfXW19efVRTlEd/3dV6dRqPxYz6flzpYjPT29n6t6/oLvu+vob8PV0cH09QLAYDU4ODgLYTQsWmaH/LqpFKpoUKh8PpDTVJVNWkYxqu+738PAK1/4OCT7e3tF/P5vNRoNH7m1fF9/3fuv+vS0lJfLpfLdnZ2XkkkEpkwDCUAiL04RqnX6/dkWf62UqkMZTKZl3jXIxAIBAKBQCAQ/H/4C2vfNQy9L3WvAAAAAElFTkSuQmCC", // 位图数据 Base64 字符串
+  "contributorName": "fooler", // 贡献者昵称
+  "isEnabled": true, // 是否默认启用替换彩色图标 - 关闭后将全部停止替换
+  "isEnabledAll": false // 是否默认启用替换全部图标
+}
 ]
